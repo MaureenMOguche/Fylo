@@ -214,8 +214,7 @@ img.stay-productive {
 .quote {
     position: absolute;
     left: 6%;
-    top: 382%;
-    z-index: -1;
+    top: 155rem;
 }
 
 .bottom-grid {
@@ -233,6 +232,7 @@ img.stay-productive {
     background-color: var(--testimonial-background);
     padding: 12% 8% 3% 8%;
     font-size: 1em;
+    z-index: 2;
 }
 
 .profile{
