@@ -265,8 +265,8 @@ p.position {
     background-color: var(--testimonial-background);
     font-size: 1em;
     position: absolute;
-    left:20%;
-    top: 450%;    
+    left: 20%;
+    top:182rem;
 }
 
 .email {
