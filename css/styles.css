@@ -317,3 +317,8 @@ footer {
 .social-media img {
     height: 40px;
 }
+
+.social-media img:hover {
+    background-color: var(--blue-accent);
+    border-radius: 50%;
+}
