@@ -113,7 +113,7 @@ nav a:hover {
 
 /*###### header section #####*/
 img.h-image {
-    height: 80vh;
+    width: 70%;
 }
 .h-text {
     width: 58%;
