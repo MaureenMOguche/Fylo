@@ -1,4 +1,11 @@
 @media (max-width:760px) {
+
+    body {
+        background-image: url("../images/bg-curvy-mobile.svg");
+        background-repeat: no-repeat;
+        background-size: 100% 70vh;
+        background-position: left 0 top 25rem;
+    }
     img.h-image {
         width: 90%;
         height: auto;
