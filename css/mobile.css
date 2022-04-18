@@ -3,7 +3,7 @@
     body {
         background-image: url("../images/bg-curvy-mobile.svg");
         background-repeat: no-repeat;
-        background-size: 100% 54vh;
+        background-size: 100% 70vh;
         background-position: left 0 top 25rem;
     }
     img.h-image {
@@ -24,7 +24,7 @@
         margin:8% 0;
     }
     .quote {
-        top: 170rem;
+        top: 162rem;
     }
     .bottom-grid {
         display: block;
