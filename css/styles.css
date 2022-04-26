@@ -135,14 +135,17 @@ header button {
 
 button {
     padding: 8px 28px;
-    background-color: var(--cyan-accent);
+    background-image:linear-gradient(to right, var(--cyan-accent), var(--blue-accent) );
     border: none;
     border-radius: 20px;
     cursor: pointer;
     color:var(--neutral-color);
+    font-size: 1.1em;
+    width: 35%;
 }
 button:hover {
-    
+    background-image: none;
+    background-color: var(--cyan-accent);
 }
 
 
@@ -281,9 +284,23 @@ input.early {
     margin-right: 20px;
 }
 
-.float button {
-    font-size: 1em;
+.error {
+    float: left;
+    margin-left: 7%;
+    font-size: 0.7em;
+    color: var(--red-accent);
+    display:none;
 }
+
+button.error-btn {
+    font-size: 1em;
+    width: 25%;
+}
+button.error-btn:hover + div{
+    display:block;
+    }
+
+
 
 
 /*######### footer ##########*/
