@@ -16,7 +16,6 @@ a {
 }
 p {
     line-height: 1.5em;
-    font-size: 1em;
 }
 
 :root {
@@ -47,7 +46,6 @@ body {
     background-size: 100% 80rem;
     background-position: left 0 top 57rem;
     font-family: 'Open Sans', sans-serif;
-    font-size: 1em;
     color:var(--neutral-color);
 }
 
@@ -156,7 +154,7 @@ button:hover {
     font-size: 1em;
 }
 
-.texttt {font-size: 1em;}
+.texttt {font-size: 1rem;}
 .card p.title {
     font-weight: bold;
     font-size: 1.3em;
