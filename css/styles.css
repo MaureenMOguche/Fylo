@@ -156,7 +156,7 @@ button:hover {
     font-size: 1em;
 }
 
-.card p {font-size: 1em;}
+.texttt {font-size: 1em;}
 .card p.title {
     font-weight: bold;
     font-size: 1.3em;
