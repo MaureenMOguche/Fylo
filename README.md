@@ -74,7 +74,7 @@ Examples of what I learnt:
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/MaureenO)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/MaureenMOguche)
 - Twitter - (https://www.twitter.com/MaureenOguche)
 
 
