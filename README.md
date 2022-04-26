@@ -4,7 +4,9 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 ## Side Hustle Internship Capstone Project Group 272
 - Maureen Oguche (SH-IT-0016238): 
-- Olawale : https://github.com/Olawale00
+- Olawale Ogundeji (SH-IT-0006802): https://github.com/Olawale00
+
+
 
 ## Table of contents
 
