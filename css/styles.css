@@ -151,10 +151,9 @@ button:hover {
 .card {
     text-align: center;
     margin: 3% 0;
-    font-size: 1em;
 }
 
-p.texttt {font-size: 1em;}
+
 p.title {
     font-weight: bold;
     font-size: 1.3em;
@@ -199,7 +198,6 @@ hr:hover {
 
 .flex-card {
     width:50%;
-    font-size: 1em;
 }
 
 .right-fc {
@@ -236,7 +234,6 @@ img.stay-productive {
     flex-direction: column;
     background-color: var(--testimonial-background);
     padding: 12% 8% 3% 8%;
-    font-size: 1em;
     z-index: 2;
 }
 
@@ -269,7 +266,6 @@ p.position {
     padding: 3% 0;
     text-align: center;
     background-color: var(--testimonial-background);
-    font-size: 1em;
     bottom:15rem;
     margin-left: 15%;
 }
