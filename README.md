@@ -3,15 +3,18 @@
 This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Side Hustle Internship Capstone Project Group 272
-- Ike-okoro Chibuike Michael (SH-IT0047652): https://github.com/chibuikes
-- Maureen Oguche (SH-IT-0016238): https://github.com/MaureenMOguche
+- Ike-okoro Chibuike Michael (SH-IT0047652) - Team Lead: https://github.com/chibuikes
+- Maureen Oguche (SH-IT-0016238) - Assistant Team Lead: https://github.com/MaureenMOguche
 - Olawale Ogundeji (SH-IT-0006802): https://github.com/Olawale00
-- Adoghe Princewill Osarodion (SH-IT-0008347): https:github.com/princewilladoghe
-- Afoke Atirene (SH-IT-0017013)
+- Adoghe Princewill Osarodion (SH-IT-0008347): https://github.com/princewilladoghe
+- Natascha Mwambwa (SH-IT-0117418): https://github.com/Natascha-cyber
+- Oluwasemilore Adetayo (SH-IT-0025990): https://github.com/Oluwasemilore1
+- Oduwole Feyisayo (SH-IT-0101073): https://github.com/Shayooour
+- Afoke Loveth Chidiebere Nwosu (SH-IT-0017013)
 - Okonkwo Obinna (SH-IT-0012495)
 - Leye Temmie (SH-IT-0000270)
 - Tolulope (SH-IT-0017330)
-- Mansodolo (SH-IT-9998730)
+- Mansodolo (SH-IT-0008730)
 
 
 
@@ -85,13 +88,14 @@ Examples of what I learnt:
 }
 ```
 
-## Author
-
-- Frontend Mentor - (https://www.frontendmentor.io/profile/MaureenMOguche)
-- Twitter - (https://www.twitter.com/MaureenOguche)
 
 
-## Acknowledgments
+## Team Members Contributions
 
-Side Hustle Frontend (html/css/js) Capstone Project Team 272: 
-https://github.com/Olawale00
+The project was divided into three sections so as to ensure participation of each member. The first part consisted of the navigation menu and the hero section, the second part was the main content, while the third part was the footer section.
+
+Team Lead: Organized meetings to deliberate on the project, wrote the html and css styles of the mid section of the project, supervised the entire course of the project, inspected and ensured that the live link and solution url worked correctly. 
+
+The Assistant Team Lead ensured there was effective communication between group members, handled the header section and also the responsive version of the project.
+
+
