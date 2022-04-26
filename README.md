@@ -83,4 +83,5 @@ Examples of what I learnt:
 
 ## Acknowledgments
 
-Side Hustle Frontend (html/css/js) Capstone Project Team 272: @Olawale00
+Side Hustle Frontend (html/css/js) Capstone Project Team 272: 
+https://github.com/Olawale00
