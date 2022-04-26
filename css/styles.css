@@ -154,8 +154,8 @@ button:hover {
     font-size: 1em;
 }
 
-.texttt {font-size: 1rem;}
-.card p.title {
+p.texttt {font-size: 1em;}
+p.title {
     font-weight: bold;
     font-size: 1.3em;
     margin: 5% 0;
