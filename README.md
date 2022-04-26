@@ -98,4 +98,16 @@ Team Lead: Organized meetings to deliberate on the project, wrote the html and c
 
 The Assistant Team Lead ensured there was effective communication between group members, handled the header section and also the responsive version of the project.
 
+Olawole: wrote down third section of the html source code as well as the css and was very cooperative throughout the project. Provided helpful resources for the project.
+
+Princewill worked with Olawole to write the third part of the codes. He was also an active member. 
+
+Oluwasemilore provided helpful resources for writing the second part of the code.
+
+Feyisayo is an avid learner of frontend development and is an active member.
+
+Afoke wrote the CSS code for the second section and is also an active member of the group.
+
+Natasha is an avid learner. she handled supervision for the CSS code of the second section.
+
 
