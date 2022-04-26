@@ -193,7 +193,7 @@ hr:hover {
 .row2 {
     display: flex;
     width: 100%;
-    margin-top: 8%;
+    margin-top: 12%;
     padding:3% 5.5% 3% 4%;
     align-items: center;
 }
@@ -219,10 +219,11 @@ img.stay-productive {
 .quote {
     position: absolute;
     left: 6%;
-    top: 164rem;
+    bottom:14rem;
 }
 
 .bottom-grid {
+    position:relative;
     margin-top: 15%;
     width: 100%;
     padding: 0 7.5%;
