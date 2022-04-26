@@ -24,7 +24,7 @@
         margin:8% 0;
     }
     .quote {
-        top: 162rem;
+        top: 174em;
     }
     .bottom-grid {
         display: block;
@@ -33,11 +33,15 @@
         margin:6%;
     }
 
+    footer {
+        margin-top: 30rem;
+        height: 46rem;
+    }
     .float {
-        position:static;
         width: 75%;
-        margin: auto;
+        transform: translateX(-10%);
         padding: 20px;
+        bottom: 52rem;
     }
     input.early {
         width: 90%;

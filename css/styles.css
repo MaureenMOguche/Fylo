@@ -44,7 +44,7 @@ body {
     background-color: var(--main-bg);
     background-image: url("/images/bg-curvy-desktop.svg");
     background-repeat: no-repeat;
-    background-size: 100% 52vh;
+    background-size: 100% 80rem;
     background-position: left 0 top 57rem;
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
@@ -264,14 +264,14 @@ p.position {
 /*######## floating div ##############*/
 
 .float {
+    position: absolute;
     width: 60%;
     padding: 3% 0;
     text-align: center;
     background-color: var(--testimonial-background);
     font-size: 1em;
-    position: absolute;
-    left: 20%;
-    top:190rem;
+    bottom:15rem;
+    margin-left: 15%;
 }
 
 .email {
@@ -311,12 +311,16 @@ footer {
     padding: 8% 5% 5%;
     margin-top:20%;
     font-size: 0.95em;
+    height: 20rem;
+    position: relative;
 }
 
 .f-logo {
     height: 40px;
 }
 .container {
+    position: absolute;
+    width: 90%;
     display: flex;
     align-items: center;
     justify-content: space-between;
