@@ -10,11 +10,11 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 - Natascha Mwambwa (SH-IT-0117418):https://github.com/Natascha-cyber
 - Oluwasemilore Adetayo (SH-IT-0025990)
 - Oduwole Feyisayo (SH-IT-0101073)
-- Afoke Atirene (SH-IT-0017013)
+- Afoke Loveth Chidiebere Nwosu (SH-IT-0017013)
 - Okonkwo Obinna (SH-IT-0012495)
 - Leye Temmie (SH-IT-0000270)
 - Tolulope (SH-IT-0017330)
-- Mansodolo (SH-IT-9998730)
+- Mansodolo (SH-IT-0008730)
 
 
 
