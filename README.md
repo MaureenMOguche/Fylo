@@ -7,9 +7,9 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 - Maureen Oguche (SH-IT-0016238) - Assistant Team Lead: https://github.com/MaureenMOguche
 - Olawale Ogundeji (SH-IT-0006802): https://github.com/Olawale00
 - Adoghe Princewill Osarodion (SH-IT-0008347): https://github.com/princewilladoghe
-- Natascha Mwambwa (SH-IT-0117418):https://github.com/Natascha-cyber
-- Oluwasemilore Adetayo (SH-IT-0025990)
-- Oduwole Feyisayo (SH-IT-0101073)
+- Natascha Mwambwa (SH-IT-0117418): https://github.com/Natascha-cyber
+- Oluwasemilore Adetayo (SH-IT-0025990): https://github.com/Oluwasemilore1
+- Oduwole Feyisayo (SH-IT-0101073): https://github.com/Shayooour
 - Afoke Loveth Chidiebere Nwosu (SH-IT-0017013)
 - Okonkwo Obinna (SH-IT-0012495)
 - Leye Temmie (SH-IT-0000270)
@@ -92,4 +92,10 @@ Examples of what I learnt:
 
 ## Team Members Contributions
 
-Michael
+The project was divided into three sections so as to ensure participation of each member. The first part consisted of the navigation menu and the hero section, the second part was the main content, while the third part was the footer section.
+
+Team Lead: Organized meetings to deliberate on the project, wrote the html and css styles of the mid section of the project, supervised the entire course of the project, inspected and ensured that the live link and solution url worked correctly. 
+
+The Assistant Team Lead ensured there was effective communication between group members, handled the header section and also the responsive version of the project.
+
+
