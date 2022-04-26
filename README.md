@@ -7,6 +7,9 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 - Maureen Oguche (SH-IT-0016238) - Assistant Team Lead: https://github.com/MaureenMOguche
 - Olawale Ogundeji (SH-IT-0006802): https://github.com/Olawale00
 - Adoghe Princewill Osarodion (SH-IT-0008347): https://github.com/princewilladoghe
+- Natascha Mwambwa (SH-IT-0117418):https://github.com/Natascha-cyber
+- Oluwasemilore Adetayo (SH-IT-0025990)
+- Oduwole Feyisayo (SH-IT-0101073)
 - Afoke Atirene (SH-IT-0017013)
 - Okonkwo Obinna (SH-IT-0012495)
 - Leye Temmie (SH-IT-0000270)
