@@ -88,13 +88,8 @@ Examples of what I learnt:
 }
 ```
 
-## Author
-
-- Frontend Mentor - (https://www.frontendmentor.io/profile/MaureenMOguche)
-- Twitter - (https://www.twitter.com/MaureenOguche)
 
 
-## Acknowledgments
+## Team Members Contributions
 
-Side Hustle Frontend (html/css/js) Capstone Project Team 272: 
-https://github.com/Olawale00
+Michael
