@@ -153,6 +153,7 @@ button:hover {
 .card {
     text-align: center;
     margin: 3% 0;
+    font-size: 1em;
 }
 
 .card p.title {
@@ -192,6 +193,7 @@ hr:hover {
 .row2 {
     display: flex;
     width: 100%;
+    margin-top: 8%;
     padding:3% 5.5% 3% 4%;
     align-items: center;
 }
