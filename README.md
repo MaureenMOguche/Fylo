@@ -3,8 +3,10 @@
 This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Side Hustle Internship Capstone Project Group 272
+- Ike-okoro Chibuike Michael (SH-IT0047652): https://github.com/chibuikes
 - Maureen Oguche (SH-IT-0016238): https://github.com/MaureenMOguche
 - Olawale Ogundeji (SH-IT-0006802): https://github.com/Olawale00
+- Adoghe Princewill Osarodion (SH-IT-0008347)
 
 
 
